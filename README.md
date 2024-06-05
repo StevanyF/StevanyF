@@ -1,10 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Stevany</h1>
-<h3 align="center">Web Developer based in Paris and looking for an apprenticeship (starting July or September 2024)</h3>
+<h3 align="center">Front-End Developer based in Paris and looking for an apprenticeship (starting July or September 2024)</h3>
 
-- 👨‍💻 My porfolio [https://stevanyportfolio.vercel.app/](https://stevanyportfolio.vercel.app/)
-- 📫 How to reach me **stevanym96@gmail.com**
-- 🌱 I’m currently learning :
+<h3>✨ About me</h3> 
+
+- My porfolio [https://stevanyportfolio.vercel.app/](https://stevanyportfolio.vercel.app/)
+- How to reach me **stevanym96@gmail.com**
+- Student at **Ada Tech School** in Paris, learning various technologies and developing coding skills.
+- I'm mainly developing in React but I'm also exploring other frameworks such us Angular
+- I'm currently learning more about tests : Unit tests, Integration tests and CI/CD
+- 🌱 During my school year I've been practicing :
   ## Frontend
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
   ## Backend
