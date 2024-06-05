@@ -6,7 +6,7 @@
 
 - My porfolio [https://stevanyportfolio.vercel.app/](https://stevanyportfolio.vercel.app/)
 - How to reach me **stevanym96@gmail.com**
-- Student at **Ada Tech School** in Paris, learning various technologies and developing coding skills.
+- Student at **Ada Tech School** in Paris, learning various technologies and developing coding skills
 - I'm mainly developing in React but I'm also exploring other frameworks such us Angular
 - I'm currently learning more about tests : Unit tests, Integration tests and CI/CD
 - 🌱 During my school year I've been practicing :
