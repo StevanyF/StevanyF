@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Stevany</h1>
-<h3 align="center">Front-End Developer based in Paris and looking for an apprenticeship (2024)</h3>
+<h3 align="center">Front-End Developer based in Paris and looking for an apprenticeship (2025)</h3>
 
 <h3>✨ About me</h3> 
 
